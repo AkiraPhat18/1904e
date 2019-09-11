@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71f2b12f-b065-4624-a8c6-0233c3992708" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/M10_OOP/007oopsetget/demo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M10_OOP/005/class/mongo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M10_OOP/005/abstract/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M10_OOP/005/class/mysql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-120">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M10_OOP/005/class/postgresql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M10_OOP/005/class/redis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="875">
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M10_OOP/005/interface/crud.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hn</find>
+      <find>array</find>
+      <find>quỳnh</find>
+      <find>html</find>
+      <find>b</find>
+      <find>c</find>
+      <find>Update</find>
+      <find>Delete</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>nguyễn quỳnh</replace>
+      <replace>3</replace>
+      <replace />
+      <replace>Delete</replace>
+      <replace>Update</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/M10.OOP/01/class5.php" />
+        <option value="$PROJECT_DIR$/M10.OOP/01/class6.php" />
+        <option value="$PROJECT_DIR$/M10.OOP/01/class8.php" />
+        <option value="$PROJECT_DIR$/M10.OOP/01/final.php" />
+        <option value="$PROJECT_DIR$/M10.OOP/01/class7.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/01/final.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/02/class1.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/02/class2.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/02/class3.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/03/demo1.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/03/class1.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/03/class2.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/03/class3.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/03/static.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/app.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/001/file1.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/models/model.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/models/backend/index.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/models/backend/post.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/models/frontend/index.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/models/frontend/post.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/controllers/controller.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/controllers/backend/index.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/controllers/backend/post.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/controllers/frontend/index.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/controllers/frontend/post.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/views/backend/index.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/views/backend/post.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/views/frontend/index.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/views/frontend/post.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/002/app/views/view.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/003/index.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/004/index.php" />
+        <option value="$PROJECT_DIR$/M11_Namespace/003/app/views/backend/post.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/004/class/cat.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/004/class/chicken.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/004/interface/keu.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/004/interface/an.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/004/interface/sinhsan.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/004/class/dog.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/004/lythuyet.html" />
+        <option value="$PROJECT_DIR$/M10_OOP/005/abstract/database.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/005/interface/crud.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/005/interface/log.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/005/interface/search.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/005/class/mongo.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/006_trait/demo.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/007oopsetget/demo.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/005/class/mysql.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/005/class/postgresql.php" />
+        <option value="$PROJECT_DIR$/M10_OOP/005/class/redis.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+              <item name="M10_OOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+              <item name="M10_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="005" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+              <item name="M10_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="005" type="462c0819:PsiDirectoryNode" />
+              <item name="abstract" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+              <item name="M10_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="005" type="462c0819:PsiDirectoryNode" />
+              <item name="class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+              <item name="M10_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="005" type="462c0819:PsiDirectoryNode" />
+              <item name="interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+              <item name="M10_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="006_trait" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+              <item name="M10_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="007oopsetget" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyLaravel" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\1904e\M11_Namespace" />
+      <recent name="C:\xampp\htdocs\1904e\M11_Namespace\002\app\views" />
+      <recent name="C:\xampp\htdocs\1904e\M11_Namespace\002\app\controllers" />
+      <recent name="C:\xampp\htdocs\1904e\M11_Namespace\002\app\models\frontend" />
+      <recent name="C:\xampp\htdocs\1904e\M10_OOP\03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\1904e\M6_PHP\006.loop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f2b12f-b065-4624-a8c6-0233c3992708" name="Default Changelist" comment="" />
+      <created>1560389301002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560389301002</updated>
+      <workItem from="1560389302256" duration="527000" />
+      <workItem from="1560389971875" duration="284000" />
+      <workItem from="1560390353244" duration="1619000" />
+      <workItem from="1560475583879" duration="14376000" />
+      <workItem from="1560770112600" duration="9475000" />
+      <workItem from="1561080256043" duration="623000" />
+      <workItem from="1561196875871" duration="6216000" />
+      <workItem from="1561362242909" duration="613000" />
+      <workItem from="1561720000419" duration="698000" />
+      <workItem from="1561722562907" duration="8538000" />
+      <workItem from="1561815606611" duration="778000" />
+      <workItem from="1561979220770" duration="9821000" />
+      <workItem from="1562314832228" duration="629000" />
+      <workItem from="1562345760281" duration="3094000" />
+      <workItem from="1562410966387" duration="9771000" />
+      <workItem from="1562584443783" duration="8883000" />
+      <workItem from="1562598143094" duration="30000" />
+      <workItem from="1562677214927" duration="1723000" />
+      <workItem from="1562854146519" duration="682000" />
+      <workItem from="1563016187692" duration="10849000" />
+      <workItem from="1563178894053" duration="2668000" />
+      <workItem from="1563207232165" duration="30000" />
+      <workItem from="1563263115336" duration="2188000" />
+      <workItem from="1563351014522" duration="1583000" />
+      <workItem from="1563414365834" duration="609000" />
+      <workItem from="1563624093079" duration="1352000" />
+      <workItem from="1564224715552" duration="9782000" />
+      <workItem from="1564398752435" duration="7126000" />
+      <workItem from="1564478406754" duration="636000" />
+      <workItem from="1564989611874" duration="3924000" />
+      <workItem from="1565007834985" duration="1727000" />
+      <workItem from="1565164603724" duration="1634000" />
+      <workItem from="1565349629274" duration="10866000" />
+      <workItem from="1565600945549" duration="9553000" />
+      <workItem from="1565685291513" duration="2609000" />
+      <workItem from="1565829865280" duration="1178000" />
+      <workItem from="1565880200151" duration="613000" />
+      <workItem from="1565882923549" duration="34000" />
+      <workItem from="1566000827585" duration="610000" />
+      <workItem from="1566111894682" duration="206000" />
+      <workItem from="1566208370251" duration="8799000" />
+      <workItem from="1566288040348" duration="600000" />
+      <workItem from="1566562677087" duration="5778000" />
+      <workItem from="1566787662404" duration="1846000" />
+      <workItem from="1566818214325" duration="9587000" />
+      <workItem from="1566866992040" duration="79000" />
+      <workItem from="1566908662653" duration="507000" />
+      <workItem from="1567601920604" duration="1856000" />
+      <workItem from="1567651933427" duration="38000" />
+      <workItem from="1567670029004" duration="859000" />
+      <workItem from="1567759215393" duration="939000" />
+      <workItem from="1567770413081" duration="7232000" />
+      <workItem from="1567845686281" duration="346000" />
+      <workItem from="1568032417400" duration="1974000" />
+    </task>
+    <task id="LOCAL-00008" summary="phien ban 1">
+      <created>1560773076431</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560773076431</updated>
+    </task>
+    <task id="LOCAL-00009" summary="phien ban 1">
+      <created>1560783828497</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1560783828500</updated>
+    </task>
+    <task id="LOCAL-00010" summary="phien ban 1">
+      <created>1561205289233</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1561205289234</updated>
+    </task>
+    <task id="LOCAL-00011" summary="phien ban 1">
+      <created>1561206609469</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1561206609469</updated>
+    </task>
+    <task id="LOCAL-00012" summary="phien ban 1">
+      <created>1561723561318</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1561723561318</updated>
+    </task>
+    <task id="LOCAL-00013" summary="phien ban 1">
+      <created>1561725627495</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561725627495</updated>
+    </task>
+    <task id="LOCAL-00014" summary="phien ban 1">
+      <created>1561729365978</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561729365978</updated>
+    </task>
+    <task id="LOCAL-00015" summary="phien ban 1">
+      <created>1561734145993</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561734145993</updated>
+    </task>
+    <task id="LOCAL-00016" summary="phien ban 1">
+      <created>1561820523823</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1561820523824</updated>
+    </task>
+    <task id="LOCAL-00017" summary="phien ban 1">
+      <created>1561983393870</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1561983393870</updated>
+    </task>
+    <task id="LOCAL-00018" summary="phien ban 1">
+      <created>1561987327552</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1561987327552</updated>
+    </task>
+    <task id="LOCAL-00019" summary="phien ban 1">
+      <created>1561989546527</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1561989546527</updated>
+    </task>
+    <task id="LOCAL-00020" summary="phien ban 1">
+      <created>1562373268068</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1562373268068</updated>
+    </task>
+    <task id="LOCAL-00021" summary="phien ban 1">
+      <created>1562377567513</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1562377567513</updated>
+    </task>
+    <task id="LOCAL-00022" summary="phien ban 1">
+      <created>1562414353731</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1562414353731</updated>
+    </task>
+    <task id="LOCAL-00023" summary="phien ban 1">
+      <created>1562420722374</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1562420722374</updated>
+    </task>
+    <task id="LOCAL-00024" summary="phien ban 1">
+      <created>1562425184187</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1562425184187</updated>
+    </task>
+    <task id="LOCAL-00025" summary="phien ban 1">
+      <created>1562425289302</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1562425289302</updated>
+    </task>
+    <task id="LOCAL-00026" summary="phien ban 1">
+      <created>1562586149300</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1562586149300</updated>
+    </task>
+    <task id="LOCAL-00027" summary="phien ban 1">
+      <created>1562591611162</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1562591611162</updated>
+    </task>
+    <task id="LOCAL-00028" summary="phien ban 1">
+      <created>1562593956536</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1562593956536</updated>
+    </task>
+    <task id="LOCAL-00029" summary="phien ban 1">
+      <created>1563021847372</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1563021847372</updated>
+    </task>
+    <task id="LOCAL-00030" summary="phien ban 1">
+      <created>1563023736410</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1563023736410</updated>
+    </task>
+    <task id="LOCAL-00031" summary="phien ban 1">
+      <created>1563031649773</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1563031649775</updated>
+    </task>
+    <task id="LOCAL-00032" summary="phien ban 1">
+      <created>1563207245765</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1563207245765</updated>
+    </task>
+    <task id="LOCAL-00033" summary="phien ban 1">
+      <created>1564228046093</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1564228046093</updated>
+    </task>
+    <task id="LOCAL-00034" summary="phien ban 1">
+      <created>1564230734165</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1564230734165</updated>
+    </task>
+    <task id="LOCAL-00035" summary="phien ban 1">
+      <created>1564235930518</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1564235930518</updated>
+    </task>
+    <task id="LOCAL-00036" summary="phien ban 1">
+      <created>1564402840057</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1564402840057</updated>
+    </task>
+    <task id="LOCAL-00037" summary="phien ban 1">
+      <created>1564405905285</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1564405905285</updated>
+    </task>
+    <task id="LOCAL-00038" summary="phien ban 1">
+      <created>1564408331351</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1564408331351</updated>
+    </task>
+    <task id="LOCAL-00039" summary="phien ban 1">
+      <created>1564992454679</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1564992454679</updated>
+    </task>
+    <task id="LOCAL-00040" summary="phien ban 1">
+      <created>1565008278744</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1565008278744</updated>
+    </task>
+    <task id="LOCAL-00041" summary="phien ban 1">
+      <created>1565167946728</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1565167946729</updated>
+    </task>
+    <task id="LOCAL-00042" summary="phien ban 1">
+      <created>1565355205829</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1565355205829</updated>
+    </task>
+    <task id="LOCAL-00043" summary="phien ban 1">
+      <created>1565367475341</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1565367475341</updated>
+    </task>
+    <task id="LOCAL-00044" summary="phien ban 1">
+      <created>1565882938689</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1565882938689</updated>
+    </task>
+    <task id="LOCAL-00045" summary="phien ban 1">
+      <created>1566221313336</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1566221313336</updated>
+    </task>
+    <task id="LOCAL-00046" summary="phien ban 1">
+      <created>1566565939924</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1566565939924</updated>
+    </task>
+    <task id="LOCAL-00047" summary="phien ban 1">
+      <created>1566566180539</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1566566180539</updated>
+    </task>
+    <task id="LOCAL-00048" summary="phien ban 1">
+      <created>1566566260844</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1566566260844</updated>
+    </task>
+    <task id="LOCAL-00049" summary="phien ban 1">
+      <created>1566568463618</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1566568463618</updated>
+    </task>
+    <task id="LOCAL-00050" summary="phien ban 1">
+      <created>1566821757507</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1566821757509</updated>
+    </task>
+    <task id="LOCAL-00051" summary="phien ban 1">
+      <created>1566826477099</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1566826477099</updated>
+    </task>
+    <task id="LOCAL-00052" summary="phien ban 1">
+      <created>1566827275040</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1566827275040</updated>
+    </task>
+    <task id="LOCAL-00053" summary="phien ban 1">
+      <created>1567670274965</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1567670274967</updated>
+    </task>
+    <task id="LOCAL-00054" summary="phien ban 1">
+      <created>1567770707529</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1567770707529</updated>
+    </task>
+    <task id="LOCAL-00055" summary="phien ban 1">
+      <created>1567772701973</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1567772701973</updated>
+    </task>
+    <task id="LOCAL-00056" summary="commit dau tien">
+      <created>1567772963239</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1567772963239</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="188597000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20801815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="phien ban 1" />
+    <MESSAGE value="commit dau tien" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit dau tien" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/M10_OOP/01/class1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="1" selection-start-line="2" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/02/class3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/03/class1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/03/class2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/03/class4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/03/class3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/models/backend/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/models/frontend/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/models/frontend/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/models/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/models/backend/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/controllers/backend/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/controllers/backend/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/controllers/frontend/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/controllers/frontend/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/views/backend/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/views/backend/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/views/frontend/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/views/frontend/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/controllers/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/004/app/views/backend/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../compare_car/database/migrations/2018_10_10_084032_create_style_cars_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../compare_car/database/migrations/2018_10_10_081515_create_category_cars_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M5_Jquery/004.jqueryevent/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M5_Jquery/004.jqueryevent/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M5_Jquery/004.jqueryevent/index1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M5_Jquery/005.jqueryhideshow/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/001/file1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/003/app/views/backend/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/003/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/004/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M11_Namespace/002/app/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/004/abstract/animals.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/004/class/chicken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/004/interface/keu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/004/interface/an.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/004/interface/sinhsan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/004/class/cat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/004/class/dog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/004/lythuyet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/005/interface/log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/005/interface/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/005/interface/crud.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/005/abstract/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/005/class/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/005/class/mongo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/005/class/postgresql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/005/class/redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/006_trait/demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M10_OOP/007oopsetget/demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
