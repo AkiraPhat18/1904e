@@ -57,4 +57,4 @@ $class->firstname = 'Phát';
 $class->password = '191197';
 echo "<br> lastname  : ".$class->lastname;
 echo "<br> firstname : ".$class->firstname;
-echo "<br> password  : ".$class->password;
+echo "<br> password : ".$class->password;
